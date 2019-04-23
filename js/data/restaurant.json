@@ -1,0 +1,114 @@
+[
+   {
+      "restaurantName":"Le Chaudron Vert",
+      "address":"23 Rue des Trois Glorieuses, 42000 Saint-Étienne",
+      "lat":45.4696715,
+      "long":4.3789114,
+      "ratings":[
+         {
+            "stars":4,
+            "comment":"Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
+         },
+         {
+            "stars":5,
+            "comment":"Tout simplement mon restaurant préféré !"
+         }
+      ]
+   },
+   {
+      "restaurantName":"Babalou",
+      "address":"4 Rue Lamarck, 75018 Paris",
+      "lat":48.8865035,
+      "long":2.3442197,
+      "ratings":[
+         {
+            "stars":5,
+            "comment":"Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+         },
+         {
+            "stars":3,
+            "comment":"J'ai trouvé ça correct, sans plus"
+         }
+      ]
+   },
+   {
+      "restaurantName":"Le Braque Marais",
+      "address":"11 Rue de Braque, Paris",
+      "lat":48.8611253,
+      "long":2.354034,
+      "ratings":[
+         {
+            "stars":5,
+            "comment":"Beaucoup de saveurs dans chaque plat. Serveur très prévenant. A chaque fois, sans, réservation, une soirée agréable."
+         },
+         {
+            "stars":4,
+            "comment":"Accueil très sympathique et endroit chaleureux. Service prévenant. Plats un peu chers mais savoureux."
+         }
+      ]
+   },
+   {
+      "restaurantName":"La Fusée",
+      "address":"168 Rue Saint-Martin, Paris",
+      "lat":48.8622576,
+      "long":2.3498717,
+      "ratings":[
+         {
+            "stars":5,
+            "comment":"Super accueil, on s’y rend très souvent avec des amis après le travail, bar très convivial, prix des conso honnête, qualité au top, surtout le White Russian hehe et serveurs hyper canon."
+         },
+         {
+            "stars":5,
+            "comment":"Lieu très sympathique, tarifs abordables, produits frais et service sympa."
+         }
+      ]
+   },
+   {
+      "restaurantName":"Les Bains Paris",
+      "address":"7 Rue du Bourg l'Abbé, Paris",
+      "lat":48.8639112,
+      "long":2.3498067,
+      "ratings":[
+         {
+            "stars":4,
+            "comment":"Superbe endroit, grande qualité. Le son de la musique a été augmenté progressivement jusqu'à ce que ce lieu intimiste se transforme finalement en discothèque. C'est dommage... pour moi. D'autres doivent apprécier."
+         },
+         {
+            "stars":2,
+            "comment":"Très belles oeuvres d'artistes dans les chambres. Les balcons pourraient être plus agréable avec une vue... Le week-end, un dj joue dans le resto. Musique trop forte (et de mauvaise qualité)."
+         }
+      ]
+   },
+   {
+      "restaurantName":"Les Negociants",
+      "address":"115 Rue Bergson, 42000 Saint-Étienne",
+      "lat":45.456907,
+      "long":4.3798648,
+      "ratings":[
+         {
+            "stars":4,
+            "comment":"Très bon rapport qualité prix. Super accueil chaleureux. Service rapide et de qualité. Personnel très sympa. Adresse à recommander."
+         },
+         {
+            "stars":3,
+            "comment":"Ambiance café restaurant à l'ancienne, bon et copieux dans les assiettes. Je recommande"
+         }
+      ]
+   },
+   {
+      "restaurantName":"Restaurant du Musée d'Art Moderne",
+      "address":"42270 Saint-Priest-en-Jarez",
+      "lat":45.4697013,
+      "long":4.3720997,
+      "ratings":[
+         {
+            "stars":2,
+            "comment":"Très déçue de ce restaurant... Prix exorbitant par rapport à la quantité dans l assiette. Je n y retournerai pas... Le patron et ses employés sont très agréables... Dommage !"
+         },
+         {
+            "stars":3,
+            "comment":"Le lieu est assez moche, un peu snob. Surfait,  dira-t-on. Quant à la cuisine, le rapport qualité/prix n'est pas fameux. Pour donner une note positive, disons que la parking est aisé. Mais est-ce vraiment ce que l'on cherche pour un restaurant?"
+         }
+      ]
+   }      
+]
