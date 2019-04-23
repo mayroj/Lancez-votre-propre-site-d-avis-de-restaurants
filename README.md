@@ -14,42 +14,7 @@ La carte Google Maps sera centrée immédiatement sur la position de l'utilisate
 
 Une liste de restaurants est fournie sous forme de données JSON présentées dans un fichier à part. En temps normal, ces données vous seraient renvoyés par un backend via une API, mais pour cet exercice il sera pour le moment suffisant de charger en mémoire tous les restaurants en mémoire directement.
 
-Voici un exemple de fichier JSON avec déjà 2 restaurants pré-remplis (vous devriez en ajouter un peu plus) :
-
-[
-   {
-      "restaurantName":"Bronco",
-      "address":"39 Rue des Petites Écuries, 75010 Paris",
-      "lat":48.8737815,
-      "long":2.3501649,
-      "ratings":[
-         {
-            "stars":4,
-            "comment":"Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
-         },
-         {
-            "stars":5,
-            "comment":"Tout simplement mon restaurant préféré !"
-         }
-      ]
-   },
-   {
-      "restaurantName":"Babalou",
-      "address":"4 Rue Lamarck, 75018 Paris",
-      "lat":48.8865035,
-      "long":2.3442197,
-      "ratings":[
-         {
-            "stars":5,
-            "comment":"Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
-         },
-         {
-            "stars":3,
-            "comment":"J'ai trouvé ça correct, sans plus"
-         }
-      ]
-   }
-]
+Voici un exemple de fichier JSON avec déjà 2 restaurants pré-remplis (vous devriez en ajouter un peu plus) [__restaurant.JSON__](.restaurant.JSON).
 
 Affichez ces restaurants grâce à leurs coordonnées GPS sur la carte. Les restaurants qui sont actuellement visibles sur la carte doivent être affichés sous forme de liste sur le côté de la carte. Vous afficherez la moyenne des commentaires de chaque restaurant (qui va de 1 à 5 étoiles).
 
