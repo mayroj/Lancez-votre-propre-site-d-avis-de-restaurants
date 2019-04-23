@@ -14,7 +14,7 @@ La carte Google Maps sera centrée immédiatement sur la position de l'utilisate
 
 Une liste de restaurants est fournie sous forme de données JSON présentées dans un fichier à part. En temps normal, ces données vous seraient renvoyés par un backend via une API, mais pour cet exercice il sera pour le moment suffisant de charger en mémoire tous les restaurants en mémoire directement.
 
-Voici un exemple de fichier JSON avec déjà 2 restaurants pré-remplis (vous devriez en ajouter un peu plus) [__restaurant.JSON__](.restaurant.JSON).
+Voici un exemple de fichier JSON avec déjà 2 restaurants pré-remplis (vous devriez en ajouter un peu plus) [__restaurant.JSON__](https://github.com/mayroj/Lancez-votre-propre-site-d-avis-de-restaurants/blob/master/restaurant.JSON).
 
 Affichez ces restaurants grâce à leurs coordonnées GPS sur la carte. Les restaurants qui sont actuellement visibles sur la carte doivent être affichés sous forme de liste sur le côté de la carte. Vous afficherez la moyenne des commentaires de chaque restaurant (qui va de 1 à 5 étoiles).
 
